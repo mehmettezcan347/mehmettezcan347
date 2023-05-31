@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @mehmettezcan347
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mehmettezcan347/mehmettezcan347 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Mehmet TEZCAN
+ANKARA ÜNİVERSİTESİ AÇIK ve UZAKTAN EĞİTİM FAKÜLTESİ
+21452578 Bilgisayar Teknolojisi
+GAZİ ÜNİVERSİTESİ'NDE MEMUR OLARAK ÇALIŞMAKTAYIM.
